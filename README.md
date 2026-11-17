@@ -25,5 +25,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+<img width="927" height="497" alt="image" src="https://github.com/user-attachments/assets/59b48315-d4dd-4e71-b4da-d05fa50e44e9" />
+
 
 # Output 
